@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'typewriter';
+     src: url(Fragmentcore.otf);
+}
+
+#maincontent{
+    width: 960px;
+    height: 960px;
+    
+    margin: auto;
+    position: relative;
+  
+    font-family: 'typewriter';
+   
+}
+
+#mainhead{
+    width: 960px;
+    margin: auto;
+    font-family: 'typewriter';
+    font-size: 20px;
+   
+}
+
+#links{
+    padding: 0px 0px 0px 210px;
+}
+
+
+
+#external {
+    padding: 0px 0px 0px 20px;
+}
+
+#linksformat {
+    color: black;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    filter: grayscale(100%);
+    margin: 10px 0px 10px 0px;
+    
+
+}
+
+#examples {
+    width: 960px;
+    height: 290px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #999999;
+    margin: 20px 0px 20px 0px;
+}
